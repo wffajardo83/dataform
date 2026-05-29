@@ -1,0 +1,7 @@
+
+config { 
+    type: "view",
+    schema: "test_ds" }
+
+SELECT "Campo 1 " as campo1,
+    "Campo 2" as campo2
